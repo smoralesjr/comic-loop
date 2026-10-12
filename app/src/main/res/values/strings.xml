@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ComicLoop</string>
+    <string name="open_file">Open file</string>
+    <string name="library">Library</string>
+    <string name="settings">Settings</string>
+    <string name="sync_now">Sync now</string>
+    <string name="reading_direction">Reading direction</string>
+    <string name="ltr">Left to right</string>
+    <string name="rtl">Right to left (manga)</string>
+    <string name="vertical">Vertical (webtoon)</string>
+    <string name="fit_mode">Fit mode</string>
+    <string name="sync_to_drive">Sync progress to Google Drive</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_out">Sign out</string>
+    <string name="last_sync">Last sync: %1$s</string>
+    <string name="never">never</string>
+    <string name="page_of">%1$d / %2$d</string>
+    <string name="cloud_open_hint">Open files from Google Drive or any cloud app via the file picker</string>
+    <string name="no_books">No comics yet.\nOpen a .cbr or .cbz file to get started.</string>
+    <string name="delete">Remove from library</string>
+    <string name="brightness">Brightness</string>
+    <string name="keep_screen_on">Keep screen on</string>
+</resources>
